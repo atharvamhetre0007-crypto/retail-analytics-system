@@ -26,19 +26,22 @@ An end-to-end Retail Analytics and Machine Learning solution developed as a majo
 
 The Sales & Regional Analytics section provides category-wise sales and regional revenue visualisations.
 
-![Sales & Regional Analytics](visualizations/sales_regional_analytics.png)
+<img width="949" height="541" alt="Screenshot 2026-09-03 090654" src="https://github.com/user-attachments/assets/75793b66-be13-42a1-a142-52422b089fea" />
+
 
 ### 🎯 Customer / Store Segmentation
 
 The segmentation section presents RFM values, K-Means clusters, and segment names such as **Top Performers**, **Moderate Performers**, and **Low Activity**.
 
-![Customer Segmentation](visualizations/customer_segmentation.png)
+<img width="1004" height="495" alt="Screenshot 2026-09-03 090703" src="https://github.com/user-attachments/assets/39ff2cd8-b9b1-43c6-b130-c61bb033a4f7" />
+
 
 ### 🔮 AI Daily Sales Forecasting
 
 The forecasting section compares **actual sales** with **predicted sales** over time.
 
-![Sales Forecasting](visualizations/sales_forecasting.png)
+<img width="1036" height="534" alt="Screenshot 2026-09-03 091007" src="https://github.com/user-attachments/assets/978d4364-a0a3-421c-a849-2d60111e41f4" />
+
 
 ---
 
@@ -176,4 +179,4 @@ http://localhost:8501
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star.
+
