@@ -19,7 +19,8 @@ An end-to-end Retail Analytics and Machine Learning solution developed as a majo
 
 ### 🏠 Main Dashboard
 
-![Retail Analytics Dashboard](visualizations/dashboard_preview.png)
+<img width="925" height="346" alt="Screenshot 2026-09-03 090643" src="https://github.com/user-attachments/assets/ddbe80fe-cae9-4f7c-8572-6f45da51b7a3" />
+
 
 ### 📈 Sales & Regional Analytics
 
