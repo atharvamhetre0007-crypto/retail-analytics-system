@@ -1,5 +1,7 @@
 import streamlit as st
-import pandas as pd
+import pandas as pd 
+import seaborn as sc
+import matplotlib.pyplot as plt 
 from pathlib import Path
 
 # Page Config
